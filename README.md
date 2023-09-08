@@ -55,14 +55,12 @@ We welcome contributions from the community! If you'd like to contribute to this
 4. Push your changes to your fork: `git push origin feature-name`.
 5. Create a pull request to submit your changes for review.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
 - Thanks to Socket.io for the real-time communication library.
-- Logo by Your Name (optional).
+
 
 ## Contact
 
