@@ -23,7 +23,7 @@ Follow these steps to get the chat application up and running on your local mach
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/real-time-chat.git
+   git clone https://github.com/AyhanAllahverdiyev/Realtime-Chat-messenger
 
 2. Navigate to the project directory:
 
