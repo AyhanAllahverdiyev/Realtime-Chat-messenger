@@ -1,6 +1,5 @@
 # Real-Time Chat Application
 
-![Chat App Screenshot](screenshot.png)
 ![Screenshot 2023-09-08 134500](https://github.com/AyhanAllahverdiyev/Realtime-Chat-messenger/assets/115575562/ac1a203c-e728-4e1d-b896-b12f23a5ca93)
 ![Screenshot 2023-09-08 134433](https://github.com/AyhanAllahverdiyev/Realtime-Chat-messenger/assets/115575562/b4dd1a04-27cf-412c-8011-f9c5b75a7ff7)
 
